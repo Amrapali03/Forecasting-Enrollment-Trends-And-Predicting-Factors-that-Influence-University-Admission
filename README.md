@@ -35,8 +35,6 @@ Additional details, including assumptions of program categories, data cleaning m
 
 # Part 2: Influence of Unfunded-Aid on Enrollment
 
-
-Unfunded Aid Project
 ## Overview
 The Unfunded Aid Project is an analytical study conducted to understand the impact of unfunded aid on student enrollment decisions at a higher education institution. The primary goal is to determine if offering unfunded aid at the time of admission significantly influences applicants to accept and enroll. This project leverages a dataset from 2020 to explore enrollment patterns based on various demographics such as citizenship, gender, and race.
 
